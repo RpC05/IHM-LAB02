@@ -1,3 +1,3 @@
 # IHM-LAB02
 
-Jaime Palomino
+Esta es una prueba de commit
